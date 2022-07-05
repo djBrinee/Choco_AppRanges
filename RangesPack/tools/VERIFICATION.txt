@@ -1,0 +1,6 @@
+﻿Package Authors:
+- Deivy Jr. 
+- Jordi Mejia
+
+Package Language: 
+- Python v3.10.4

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>rangespack</id>
+    <version>1.0.0</version>
+    <title>RangesPack (Install)</title>
+    <authors>Deivy Peña, Jordi Mejía</authors>
+    <projectUrl>https://github.com/djBrinee/Choco_AppRanges.git</projectUrl>
+    <tags>rangespack python pip chocolatey appranges ranges</tags>
+    <summary>This is a package to manage ranges</summary>
+    <description>Operations to do: 1. AllPoints, 2. Endpoints, 3. Equals, 4. Overlaps</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <file src="tools\src\dist\**" target = "dist" />
+  </files>
+</package>

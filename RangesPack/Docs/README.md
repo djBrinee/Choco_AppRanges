@@ -18,3 +18,5 @@ Applicatión Functions:
 
 - Reads a range of numbers and shows the answer depending of the options you choose from the ones in the App (Allpoints, Endpoints, Equals, or Overlaps).
 
+***
+Go to the [Installing Guide](RangesPack/Docs/Installing_Guide) to see the step by step of the installation.

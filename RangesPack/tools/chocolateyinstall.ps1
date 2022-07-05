@@ -7,4 +7,4 @@ $fileName   = 'main.exe'
 $fileLocation   = Join-Path $toolsDir "\src\dist\AppRanges.exe"
 
 
-Install-BinFile -Name $packageName -Path $fileLocation"
+Install-BinFile -Name "$packageName" -Path "$fileLocation"

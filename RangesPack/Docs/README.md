@@ -19,4 +19,4 @@ Applicatión Functions:
 - Reads a range of numbers and shows the answer depending of the options you choose from the ones in the App (Allpoints, Endpoints, Equals, or Overlaps).
 
 ***
-Go to the [Installing Guide](Choco_Ranges/RangesPack/Docs/Installing_Guide.md) to see the step by step of the installation.
+Go to the [Installing Guide](https://github.com/djBrinee/Choco_AppRanges/blob/main/RangesPack/Docs/Installing_Guide.md) to see the step by step of the installation.
